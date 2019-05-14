@@ -1,4 +1,9 @@
-# Code to explain Central Limit Theoram, Standard Error of Mean and Confidence Intervals
+#This file contains code for (1) random sampling from Beta distribution, 
+#(2) plotting histograms and density functions, 
+#(3) Computing descriptive statistics such as mean and standard deviation of a random sample 
+#and (4) computing inferential statistics such as standard error of the mean and confidence intervals. 
+#Please check the accompanying Medium blogpost here.
+
 # Written by Neeraj Kumar
 
 # Generate a population distribution
